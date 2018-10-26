@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+    
+    <entry>
+      <title>markdow语法</title>
+      <link href="/2018/10/25/markdow%E8%AF%AD%E6%B3%95/"/>
+      <url>/2018/10/25/markdow%E8%AF%AD%E6%B3%95/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+    </entry>
+    
+    <entry>
+      <title>markdown</title>
+      <link href="/2018/10/25/markdown/"/>
+      <url>/2018/10/25/markdown/</url>
+      
+        <content type="html"><![CDATA[<h1 id="标题"><a href="#标题" class="headerlink" title="标题"></a>标题</h1><h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><h1 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h1><p>….</p><h6 id="六级标题"><a href="#六级标题" class="headerlink" title="六级标题"></a>六级标题</h6><h1 id="超链接"><a href="#超链接" class="headerlink" title="超链接"></a>超链接</h1><p><a href="http://www.baidu.com" target="_blank" rel="noopener">点我</a>跳转到百度</p><p><a href="链接地址">链接名字</a></p><h1 id="图片"><a href="#图片" class="headerlink" title="图片"></a>图片</h1><p><img src="http://img2.imgtn.bdimg.com/it/u=368089513,1169334511&amp;fm=26&amp;gp=0.jpg" alt="表情包"> </p><p>！<a href="图片链接">图片名字</a></p><h1 id="图片链接"><a href="#图片链接" class="headerlink" title="图片链接"></a>图片链接</h1><p><a href="http://www.baidu.com" target="_blank" rel="noopener"><img src="http://img2.imgtn.bdimg.com/it/u=368089513,1169334511&amp;fm=26&amp;gp=0.jpg" alt="表情包"></a></p><h1 id="文本修饰"><a href="#文本修饰" class="headerlink" title="文本修饰"></a>文本修饰</h1><p><em>文本倾斜</em><br><strong>文本加粗</strong><br><strong><em>加粗倾斜效果</em></strong><br><del>删除线</del></p><h1 id="分割线"><a href="#分割线" class="headerlink" title="分割线"></a>分割线</h1><p>三个或者三个以上的-或者*</p><hr><p>#列表</p><h2 id="有序列表"><a href="#有序列表" class="headerlink" title="有序列表"></a>有序列表</h2><ol><li>张三</li><li>李四</li><li>王麻子</li></ol><h2 id="无序列表"><a href="#无序列表" class="headerlink" title="无序列表"></a>无序列表</h2><p>以一个 - + *开头的</p><ul><li>列表一</li><li>列表二</li><li>列表三</li></ul><h1 id="表格"><a href="#表格" class="headerlink" title="表格"></a>表格</h1><table><thead><tr><th>姓名</th><th>排行</th><th>特长</th></tr></thead><tbody><tr><td>刘备</td><td>老大</td><td>哭</td></tr><tr><td>关云长</td><td>老二</td><td>打</td></tr><tr><td>张飞</td><td>老三</td><td>骂</td></tr></tbody></table><h1 id="代码块"><a href="#代码块" class="headerlink" title="代码块"></a>代码块</h1><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">while</span> (alive)&#123;</span><br><span class="line">    code();</span><br><span class="line">    eat();</span><br><span class="line">    sleep();</span><br><span class="line">    &#125;</span><br></pre></td></tr></table></figure><figure class="highlight css"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="selector-tag">body</span>&#123;</span><br><span class="line">    <span class="attribute">color</span>:red;</span><br><span class="line">    <span class="attribute">font-size</span>:<span class="number">15px</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      
+    </entry>
+    
+    <entry>
+      <title>今日毒鸡汤</title>
+      <link href="/2018/10/24/%E4%BB%8A%E6%97%A5%E6%AF%92%E9%B8%A1%E6%B1%A4/"/>
+      <url>/2018/10/24/%E4%BB%8A%E6%97%A5%E6%AF%92%E9%B8%A1%E6%B1%A4/</url>
+      
+        <content type="html"><![CDATA[<p> ##人和猪的区别就是</p><p> ##猪一直是猪</p><p> ##而人有时候却不是人</p><p> ##—–CM</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    <entry>
+      <title>您好，世界！</title>
+      <link href="/2018/10/24/hello-world/"/>
+      <url>/2018/10/24/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>今天是个特殊的日子</p><p>#船到桥头自然直</p><p>#你自己不努力，都不知道自己有多失败</p>]]></content>
+      
+      
+      
+    </entry>
+    
+  
+  
+</search>
